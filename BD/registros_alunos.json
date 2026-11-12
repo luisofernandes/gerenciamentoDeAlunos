@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "matricula": "2026A01",
+    "nome": "CARLOS EDUARDO SILVA",
+    "turma": "3A",
+    "data": "2026-10-23",
+    "presente": true,
+    "motivoSaida": "BANHEIRO",
+    "minutosFora": 8,
+    "alertaTempo": false
+  },
+  {
+    "id": 2,
+    "matricula": "2026A01",
+    "nome": "BALADINHA",
+    "turma": "2B",
+    "data": "2026-10-25",
+    "presente": true,
+    "motivoSaida": "PASSANDO MAL",
+    "minutosFora": 20,
+    "alertaTempo": false
+  },
+  {
+    "id": 3,
+    "matricula": "2026A01",
+    "nome": "JOÃO PIRAN",
+    "turma": "3B",
+    "data": "2026-10-28",
+    "presente": true,
+    "motivoSaida": "BEBER ÁGUA",
+    "minutosFora": 5,
+    "alertaTempo": false
+  },
+  {
+    "id": 4,
+    "matricula": "2026A01",
+    "nome": "MIGUEL SILVA",
+    "turma": "9B",
+    "data": "2026-11-5",
+    "presente": true,
+    "motivoSaida": "FOI PARA A COORDENAÇÃO",
+    "minutosFora": 30,
+    "alertaTempo": false
+  },
+  {
+    "id": 5,
+    "matricula": "2026A01",
+    "nome": "LUÍS OTÁVIO",
+    "turma": "2B",
+    "data": "2026-11-10",
+    "presente": true,
+    "motivoSaida": "FOI NO BANHEIRO",
+    "minutosFora": 10,
+    "alertaTempo": false
+  }
+]
